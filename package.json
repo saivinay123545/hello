@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "init": "^0.1.2",
+    "node": "^20.2.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
